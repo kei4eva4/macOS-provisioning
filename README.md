@@ -1,6 +1,7 @@
 # macOS-provisioning
+ansibleを使ってmacの初期設定をする
 
-#　準備
+# 準備
 ## Xcodeのインストール
 
 ```shell
